@@ -1,0 +1,6 @@
+nc 178.62.22.245 41662
+| Hi all, let's go to play with numbers!!
+| Are you ready? [Y]es or [N]o: Y
+| Send a BTC valid address that starts with 17Aak:
+
+という風にBTCアドレスの先頭が与えられて妥当なアドレスを返す

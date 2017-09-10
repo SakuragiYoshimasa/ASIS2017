@@ -1,0 +1,19 @@
+During the production process of 2 images,
+there was a mistake in the arrangement.
+The builder is trying to find out his mistake,
+but has not yet reached the point.
+We need your help just now!
+
+
+image1 : 2752x56 = 154112, 8.4kb
+image2 : 2738x74 = 202612, 7.8kb
+
+RGBA
+
+もしそれぞれ４chなら
+2752 * 56 * 4　= 616448 バイト
+2738 * 74 * 4　= 810448 バイト
+になるはず
+実際には１は過剰で２は足りてない
+
+見た所、アルファチャンネルがほとんど０になってる

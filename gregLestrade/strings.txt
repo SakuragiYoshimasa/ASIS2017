@@ -1,0 +1,64 @@
+/lib64/ld-linux-x86-64.so.2
+libc.so.6
+strncmp
+__isoc99_scanf
+puts
+__stack_chk_fail
+stdin
+printf
+strlen
+read
+stdout
+alarm
+system
+setvbuf
+__libc_start_main
+__gmon_start__
+GLIBC_2.7
+GLIBC_2.4
+GLIBC_2.2.5
+dH34%(
+AWAVA
+AUATL
+[]A\A]A^A_
+7h15_15_v3ry_53cr37_1_7h1nk
+/bin/cat ./flag
+[*] Hello, admin 
+Give me your command : 
+[*] for secure commands, only lower cases are expected. Sorry admin
+[*] Welcome admin login system! 
+Login with your credential...
+Credential : 
+[!] Sorry, wrong credential
+0) exit
+1) admin action
+Good bye, admin :)
+Wrong.
+;*3$"
+GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.4) 5.4.0 20160609
+.shstrtab
+.interp
+.note.ABI-tag
+.note.gnu.build-id
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.jcr
+.dynamic
+.got.plt
+.data
+.bss
+.comment
