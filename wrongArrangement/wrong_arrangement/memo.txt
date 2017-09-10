@@ -17,3 +17,19 @@ RGBA
 実際には１は過剰で２は足りてない
 
 見た所、アルファチャンネルがほとんど０になってる
+
+データ構造
+https://ja.wikipedia.org/wiki/Portable_Network_Graphics
+http://hoshi-sano.hatenablog.com/entry/2013/08/18/112550
+
+PLTEチャンクサイズ:image1:46 * 3, image2:63 * 3
+tRNSチャンクサイズ:image1:46 , image2:63, ちゃんとある
+
+構成は両方ともシグネチャ、IDHR、PLTE、tRNS、IDAT複数、IEND
+
+IDATの数:image1:32, image2:29
+全部256詰まってる
+
+アルファが0じゃないのは
+image1: 1から5まで4590個
+image2: 1から9まで6752個
